@@ -1,0 +1,9 @@
+
+
+@import "~bootstrap/scss/bootstrap";
+
+
+.myNavLink {
+  // Override bootstrap NavLink class to use the one from React-Router 
+  @extend .nav-link ;
+}

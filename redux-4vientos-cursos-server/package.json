@@ -1,0 +1,14 @@
+{
+  "name": "org.cuatrovientos.cursos.server",
+  "version": "1.0.0",
+  "description": "Fake Server API for 4Vientos cursos ",
+  "main": "apiServer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nau Frago",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.16.1"
+  }
+}
