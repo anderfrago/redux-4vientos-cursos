@@ -2,8 +2,8 @@
 ## Cuatrovientos
 
 Desarrollo de aplicación CRUD de cursos.
-El Backend es una Fake API desarrollada con NodeJS
-El Frontend está desarrollado con React-Redux
+- El Backend es una Fake API desarrollada con NodeJS
+- El Frontend está desarrollado con React-Redux
 
 ---
 
