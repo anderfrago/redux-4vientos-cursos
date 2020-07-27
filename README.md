@@ -11,5 +11,6 @@ React con componentes de clase para intentar hacer su código más entendible.
 React-Router para la navegación.
 React-Redux:
 - Se implementa separando Actions y Reducers, intentando facilitar el proceso redux para una mejor compresión
+
 Redux-thunk actualizaciones asíncronas.
-s
+
